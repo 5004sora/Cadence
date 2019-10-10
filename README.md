@@ -5,7 +5,7 @@ This was the submission of my group "Reckless" for the Hack the Burgh V Hackatho
 
 About the program:
 
-The function takes two parameters, the user input and a list of possible sponsor schemes. The program then determines the similarity between the user input and each sponsor scheme available based on some rules we designed. Once the similarities have been calculated, the schemes are sorted from most relevant to least relevant and returned to the user. 
+The function takes two parameters, the user input and a list of possible sponsor schemes. The program then uses Spacy to determine the similarity between the user input and each sponsor scheme available based on some rules we designed. Once the similarities have been calculated, the schemes are sorted from most relevant to least relevant and the top 3 most relevant schemes are returned to the user. 
 
 What next?
 
