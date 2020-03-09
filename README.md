@@ -1,4 +1,4 @@
-# Hack the Burgh V - Reckless
+# Hack the Burgh V - Cadence
 Submission for Hack the Burgh V:
 
 This was the submission of my group "Reckless" for the Hack the Burgh V Hackathon in 2019. It is a simple matching algorithm that uses NLP to match queries with existing test sentences. The idea behind the project is to bring minority entrepreneurs and possible sponsors together. Minority entrepreneurs may not have the same opportunities as others to acquire sufficient funding for their businesses, and as a result we wanted to facilitate this process.
